@@ -411,10 +411,11 @@ main {
     color: #222;
     cursor: pointer;
     padding: 0;
-    height: 100px;
+    height: 50px;
     width: 100px;
     background: #f9cc41;
     display: inline-block;
+    border-radius: 50px;
 }
 
 .action--menu {
