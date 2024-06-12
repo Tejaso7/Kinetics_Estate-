@@ -390,7 +390,10 @@ main {
     text-align: center;
 }
 
-
+.logo{
+    height: 100px;
+    width: 100px;
+}
 /* Top Navigation Style */
 .logo-links {
     position: relative;
@@ -1692,7 +1695,7 @@ span.block-border {
 }
 
 .feature-item--img {
-    height: 350px;
+    height: 200px;
     width: 100%;
     background-size: cover;
     background-position: center;
